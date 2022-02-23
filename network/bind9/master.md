@@ -179,7 +179,7 @@ $ cd /etc/bind/zones
 $ sudo named-checkzone grupo6.turma924.ifalara.local db.grupo6.turma924.ifalara.local
 zone grupo6.turma924.ifalara.local/IN: loaded serial 1
 OK
-$ sudo named-checkzone 10.9.24.in-addr.arpa db.10.9.24.rev
+$ sudo named-checkzone 10.9.24.in-addr.arpa db.10.9.24.grupo6.rev
 zone 10.9.24.in-addr.arpa/IN: loaded serial 1
 OK
 ```
